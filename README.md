@@ -68,7 +68,7 @@ The figures below illustrate the main phenomena studied in the paper.
   </tr>
   <tr>
     <td align="center">
-      <img src="figures/generalization_train_test.pdf" width="500"><br>
+      <img src="figures/generalization_train_test.png" width="500"><br>
       <sub><b>(c) Generalization to unseen tasks</b> — the learned shared controller transfers to held-out systems drawn from the same task distribution.</sub>
     </td>
   </tr>
