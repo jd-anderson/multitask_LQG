@@ -2,7 +2,7 @@
 
 This repository contains the code to reproduce the experimental results from the following paper:
 
-**Leonardo F. Toso\*, Kasra Fallah\*, Charis Stamouli, George J. Pappas, and James Anderson.**  
+**Leonardo F. Toso\*, Kasra Fallah\*, Charis Stamouli\*, George J. Pappas, and James Anderson.**  
 \*Equal contribution.
 
 [Multitask LQG Control: Performance and Generalization Bounds](#)
