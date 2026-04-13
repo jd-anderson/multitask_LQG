@@ -55,25 +55,21 @@ The figures below illustrate the main phenomena studied in the paper.
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="figures/Figure_log-cartpole-final.png" width="500"><br>
       <sub><b>(a) Task-specific optimality gaps</b> — the shared lifted controller improves performance across training tasks, with residual error depending on task heterogeneity.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="figures/Figure_bisim-cartpole-final.png" width="500"><br>
       <sub><b>(b) Bisimulation-based heterogeneity</b> — the heterogeneity measures decrease during training, reflecting improved alignment of task-specific gradients.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="figures/generalization_train_test.png" width="500"><br>
       <sub><b>(c) Generalization to unseen tasks</b> — the learned shared controller transfers to held-out systems drawn from the same task distribution.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="figures/variance_reduction.png" width="500"><br>
       <sub><b>(d) Variance reduction in the model-free setting</b> — multitask aggregation improves sample efficiency by reducing gradient estimation variance as the number of tasks increases.</sub>
     </td>
